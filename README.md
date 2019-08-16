@@ -4,7 +4,7 @@ This application installs three basic commands simulating a coffee shop (display
 ```
 coffee-shop ls / coffee-shop list.
 ```
-- Displays the ordering menu of coffees.
+- Displays the menu list of coffees.
 ```
 coffee-shop c / coffee-shop contact. 
 ```
