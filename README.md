@@ -1,9 +1,18 @@
 # Coffee Shop console app 
 
 This application installs three basic commands simulating a coffee shop (displayed tipying "coffee-shop -h"):
-- coffee-shop ls / coffee-shop list. Displays the ordering menu of coffees.
-- coffee-shop c / coffee-shop contact. Displays Coffee shop contact information.
-- coffee-shop o / coffee-shop order. Through an interactive set of options, it creates a new order showed in console and also creates a text file in './orders/' with a timestamp in its filename.
+```
+coffee-shop ls / coffee-shop list.
+```
+-Displays the ordering menu of coffees.
+```
+coffee-shop c / coffee-shop contact. 
+```
+-Displays Coffee shop contact information.
+```
+coffee-shop o / coffee-shop order.
+```
+-Through an interactive set of options, it creates a new order showed in console and also creates a text file in './orders/' with a timestamp in its filename.
 
 
 ## Modules used
