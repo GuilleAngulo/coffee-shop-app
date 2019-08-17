@@ -28,5 +28,5 @@ npm install -g ./
 ```
 
 # Demo
-<img src="https://github.com/GuilleAngulo/coffee-shop-app/blob/master/coffee-shop-app.gif" width="500">
+<img src="https://github.com/GuilleAngulo/coffee-shop-app/blob/master/coffee-shop-app.gif" width="800">
 
