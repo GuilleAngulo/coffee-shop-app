@@ -1,4 +1,4 @@
-# Coffee Shop console app 
+# ☕ Coffee Shop console app 
 
 This application installs three basic commands simulating a coffee shop (displayed tipying "coffee-shop -h"):
 ```
